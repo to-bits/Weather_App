@@ -1,3 +1,3 @@
-spring:
-  application:
-    name: demo
+weather:
+  api:
+    key: 5967eb1f3ecfb173d74f8d3d59d31091
